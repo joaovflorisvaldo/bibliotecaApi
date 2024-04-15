@@ -15,10 +15,10 @@ Este projeto é uma aplicação de biblioteca virtual desenvolvida para testar A
 1. **Clonagem do Repositório**: Clone este repositório em sua máquina local utilizando o seguinte comando:
 
    ```
-   git clone https://github.com/seu-usuario/biblioteca-virtual.git
+   git clone [https://github.com/seu-usuario/biblioteca-virtual.git](https://github.com/joaovflorisvaldo/bibliotecaApi.git)
    ```
 
-2. **Configuração do Banco de Dados**: Utilize o pgAdmin ou qualquer outra ferramenta de administração do PostgreSQL para criar um novo banco de dados com o nome `biblioteca_virtual`.
+2. **Configuração do Banco de Dados**: Utilize o pgAdmin ou qualquer outra ferramenta de administração do PostgreSQL para criar um novo banco de dados com o nome `bibliotecaApi`.
 
 3. **Configuração do WildFly**: Configure o servidor WildFly no IntelliJ IDEA para hospedar a aplicação. Certifique-se de que o driver JDBC do PostgreSQL esteja configurado corretamente no WildFly.
 
